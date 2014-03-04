@@ -46,6 +46,7 @@ A2. Nothing.  - Aaron H.
 Q3. What are four variables of a Project? (Jinal)
 
 
+
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
@@ -53,6 +54,14 @@ Q1. Why is it important to have project planning in every project? - Andrew L.
 Q2. Describe effort and duration. (Jinal)
 A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
 	Effort is amount of labor required to finish the task. (Jinal)
+
+Q3. Give the four main components of a project plan. - Jarred
+
+Q4. In the project lifecycle, what comes after the Initial Project Planning? - Jarred
+A. Preliminary Requirements Development 
+B. Release Planning - This one (Jarred)
+C. Candidate Architecture Specification 
+D. Lunch
 
 Working in Teams
 ----------------
@@ -82,7 +91,7 @@ Q8. What are the 3 principles of a healthy interaction? Which one is LEAST likel
 A8. Respect, Trust, and Humility are three foundational principles of healthy team interaction. Trust is the least likely to mitigate ego programming. (Andrew B.)
 
 Q9. Why is team conflict good? (Andrew B.)
-A9. 
+A9. Adds to the creative process and can increase inter-team competition. - Jarred
 
 Q10. At what stage of team development are teams least productive? (Andrew B.)
 A10. Teams are least productive during the 'storming' stage of team development. (Andrew B.)
