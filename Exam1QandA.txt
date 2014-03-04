@@ -24,10 +24,17 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+Q3. A good organization structure has ____ cohesion within groups and _____ coupling between groups. - Vicky Wu
+A1. Strong cohesion, Weak coupling
+
 
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
+
+Q2. What are two important components of risk? - Vicky Wu
+A1. the probability of the unsatisfactory outcome
+A2. the magnitude of the loss associated with the unsatisfactory outcome (the impact)
 
 Working in Teams
 ----------------
