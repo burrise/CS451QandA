@@ -28,7 +28,9 @@ A6. Yes (Rob Williams)
 Q7. What is the difference between functional and non-functional requirements? - Jonathan W.
 A7. 	Functional requirements are discrete (Either the feature is present or it's not). (Paul B.)
 	Non-Functional requirements are continuous - present to some degree (scalable) ie. Ease of Use: Less <-|-|-> More (Paul B.)
-
+	
+Q8. Why are prodect baclogs part of the project development?(Henry.E)
+A8. To insure that the users needs are adressed.
 
 Project Management
 ------------------
@@ -50,7 +52,8 @@ A4. Effort is used to measure resource usage and duration is used in scheduling.
 
 Q5. Why is a risk management plan important? (Aaron S.)
 A5. This allows you to mitigate the damage that potential risks have, and allows you to follow a procedure when something goes wrong. (Dan R.)
-
+Q6. Choosing a good reliable project manager is vital to the projects success.(Henry.E)
+A6. yes no
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
@@ -79,6 +82,7 @@ Healthy conflict requires you to understand the motivations and outcomes of your
 It also brings out the weaknesses in your planning as those who oppose the plan are more likely to see flaws and thus you can address those issues.
 
 Q5. What are the reasons that make developers "Going Dark"?
+A5. Alienation from the team or frustration with the team.(Henry.E)
 
 Q6. What are the four stages of team development? - Jonathan W.
 A6. Forming, Storming, Norming and Performing - Jonathan W.
