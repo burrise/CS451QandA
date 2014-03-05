@@ -59,6 +59,7 @@ A5. This allows you to mitigate the damage that potential risks have, and allows
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
+A1. A project plan will allow you to know if you are on track for your goals, and what is expected in the future. (Ben S.)
 
 Q2. Describe effort and duration. (Jinal)
 A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
@@ -120,3 +121,5 @@ A1. Commiting is the action of saving it to your local repository and prepping t
 
 Q3. What is the difference between a branch and a fork? (Aaron S.)
 A1. A fork is a team member's work, "forked" from the main repository.  A branch is an individual version of the project or experimental work.  (Dan R.)
+
+Q4. Since Github is public by default, does the original owner have any control of WHO gets to fork or branch off from their original code? (Ben S.)
