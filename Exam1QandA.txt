@@ -112,3 +112,5 @@ A1. Commiting is the action of saving it to your local repository and prepping t
 
 Q3. What is the difference between a branch and a fork? (Aaron S.)
 A1. A fork is a team member's work, "forked" from the main repository.  A branch is an individual version of the project or experimental work.  (Dan R.)
+
+Q4. Since Github is public by default, does the original owner have any control of WHO gets to fork or branch off from their original code? (Ben S.)
