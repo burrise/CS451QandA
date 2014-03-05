@@ -1,6 +1,6 @@
 Software Engineering Profession
 -------------------------------
-(Not covered this exam)
+(covered third exam)
 
 Requirements
 ------------
