@@ -54,6 +54,7 @@ A5. This allows you to mitigate the damage that potential risks have, and allows
 Project Planning
 -----------------
 Q1. Why is it important to have project planning in every project? - Andrew L.
+A1. A project plan will allow you to know if you are on track for your goals, and what is expected in the future. (Ben S.)
 
 Q2. Describe effort and duration. (Jinal)
 A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
