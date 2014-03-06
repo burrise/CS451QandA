@@ -68,6 +68,14 @@ A.Duration is amount of calendar time or clock time required to finish the task.
 Q3. Why refer to a project plan as a living document? (Kingsley)
 A3. This is because project plan evolves/grows/changes along with the project as the conditions change during the project life. (Kingsley)
 
+Q4. Give the four main components of a project plan. - Jarred
+
+Q5. In the project lifecycle, what comes after the Initial Project Planning? - Jarred
+A. Preliminary Requirements Development 
+B. Release Planning - This one (Jarred)
+C. Candidate Architecture Specification 
+D. Lunch
+
 Working in Teams
 ----------------
 Q1. Give several examples of ground rules for a team. (Eddie)
@@ -100,6 +108,7 @@ A8. Respect, Trust, and Humility are three foundational principles of healthy te
 
 Q9. Why is team conflict good? (Andrew B.)
 A9. Conflict in a team prevents groupthink and allows a variety of ideas to be considered. (Aaron S.)
+A9. Adds to the creative process and can increase inter-team competition. - Jarred
 
 Q10. At what stage of team development are teams least productive? (Andrew B.)
 A10. Teams are least productive during the 'storming' stage of team development. (Andrew B.)
