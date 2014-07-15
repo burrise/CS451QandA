@@ -46,6 +46,9 @@ Q2. What, if anything, is wrong with reporting the status of a user story or mil
 A1. It's ambiguous. - Aaron H.
 A2. Nothing.  - Aaron H.
 
+Q3. A good organization structure has ____ cohesion within groups and _____ coupling between groups. - Vicky Wu
+A1. Strong cohesion, Weak coupling
+
 
 Q3. What are four variables of a Project? (Jinal)
 A3. Scope, Time, Resources, and Quality (Rob Williams)
@@ -64,6 +67,9 @@ A1. A project plan will allow you to know if you are on track for your goals, an
 Q2. Describe effort and duration. (Jinal)
 A.Duration is amount of calendar time or clock time required to finish the task. (Jinal)
 	Effort is amount of labor required to finish the task. (Jinal)
+Q3. What are two important components of risk? - Vicky Wu
+A1. the probability of the unsatisfactory outcome
+A2. the magnitude of the loss associated with the unsatisfactory outcome (the impact)
 
 Q3. Why refer to a project plan as a living document? (Kingsley)
 A3. This is because project plan evolves/grows/changes along with the project as the conditions change during the project life. (Kingsley)
@@ -81,9 +87,7 @@ Working in Teams
 Q1. Give several examples of ground rules for a team. (Eddie)
 A1. Practice mutual respect ever day. Meetings will start and end on time. Honesty before cohesiveness.
 
-<<<<<<< HEAD
 
-=======
 Q2. What are some range of responses to a conflict
 A2. Do nothing. Private Conversation between affected members. Professional Airing of grievances. ---(Lukman B.)
 
@@ -122,7 +126,6 @@ GIT / Github
 -------------
 Q1. What's the difference between fork and clone? - Aaron H.
 A1. Fork only allows clone on the server side and clone is a copy of a repository. (Andrew L.) 
->>>>>>> upstream/master
 
 Q2. What's the difference between committing and pushing in Git? (Rob Williams)
 A1. Commiting is the action of saving it to your local repository and prepping the document(s) to be transferred to the server-side.  Pushing is the action of sending
